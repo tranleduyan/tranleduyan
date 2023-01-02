@@ -4,7 +4,7 @@
 - 📌 You can find the project's demo at https://leduyantran.itch.io/project-outer-base-in-progress or development process contents at: https://www.instagram.com/8thbitboi/
 - 💞️ I’m a curious and passionate person, my main focus is developing and design softwares that can be used to improve people's daily lives.
 - ✨ I'm open to any exciting opportunities, collaborations, and challenges to grow
-- ♨️ 2022-2023 Goals: Get A Software Development Engineer Internship Opportunity and Grow Professionally, Learn more about React, Javascript and Data Structures, Algorithm, Proficient in Full-Stack Development!
+- ♨️ 2023 Goals: Get A Software Development Engineer Internship Opportunity and Grow Professionally, Learn more about React, Javascript and Data Structures, Algorithm, Proficient in Front-end and Back-end! Earn more badges on LeetCode and schools!
 - 📫 Reach me at: leduyantran@gmail.com - https://www.linkedin.com/in/leduyantran/
 - 🔸 Fun thing about me: I have a twin brother who also study the same Computer Science path as me! 
 
